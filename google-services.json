@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "325099373421",
+    "firebase_url": "https://help-by-location.firebaseio.com",
+    "project_id": "help-by-location",
+    "storage_bucket": "help-by-location.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325099373421:android:48599aafd20dc605",
+        "android_client_info": {
+          "package_name": "com.example.mani.realtim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325099373421-lhfbt230psovsmp3297j02ecmrei6tn4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mani.realtim",
+            "certificate_hash": "05b236e0ebe59498b25ae4b343acf5a268297231"
+          }
+        },
+        {
+          "client_id": "325099373421-b8srao4pd7gtst4fpfvm8ngc8gm32h0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqFztdH_AnT-ZjnLhanS-Ym7POa-IXZ_Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325099373421-b8srao4pd7gtst4fpfvm8ngc8gm32h0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
